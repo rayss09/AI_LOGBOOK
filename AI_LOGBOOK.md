@@ -17,6 +17,12 @@ Saya menggunakan Claude untuk mencari ide proyek dan merancang konsep Web. Saya 
 Link percakapan AI:
 
 https://claude.ai/chat/7cd72f92-ef1c-4aa4-9f7d-b753a20cff69
+https://chatgpt.com/c/6afc6b8a-315c-83ec-8ddd-fc8c46e67a7c
+https://chatgpt.com/c/6afcef20-861c-83ec-b091-4289e796da1b
+https://chatgpt.com/c/6afcfc46-4de8-83ec-87eb-d5d9421cd666
+https://chatgpt.com/c/6afd08b6-89ec-83ec-b8a5-ec01134bb1fc
+https://chatgpt.com/c/6afd1148-81fc-83ec-9067-1088ea28be1e
+https://chatgpt.com/c/6afd8986-7f7c-83ec-9fcc-1a5fc79ec773
 
 Validasi & Modifikasi Mandiri:
 
@@ -64,6 +70,7 @@ Saya memeriksa saran perbaikan dari AI dan membandingkan hasilnya dengan tampila
 
 TAHAP 4 – Refleksi & Penjelasan Kode
 
-Bagian ini akan dilengkapi setelah proses pemahaman dan pengujian kode.
+https://chatgpt.com/c/6b0771b2-8478-83ec-92c0-7508a83a9836
+
 ---
 Catatan: Pengembangan proyek dilakukan dengan bantuan beberapa platform AI. Penggunaan AI bertujuan membantu proses perancangan, penyusunan kode, dan penyelesaian masalah, sementara konsep dan kebutuhan aplikasi ditentukan oleh saya sendiri.
